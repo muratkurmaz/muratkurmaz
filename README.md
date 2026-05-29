@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=MSc+HPC+%26+Data+Science+%40+University+of+Edinburgh;MEng+Computer+Science+%26+AI+%40+University+of+Leeds;Scientific+Computing+%E2%88%A9+Machine+Learning;Numerical+Methods+%7C+Simulation+%7C+HPC" />
 </p>
 
-<p align="center">
-  Scientific Computing · High-Performance Computing · Machine Learning
-</p>
-
 ---
 
 ### About Me
