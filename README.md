@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Scientific Computing · High-Performance Computing · Machine Learning · Deep Learning
+  Scientific Computing · High-Performance Computing · Machine Learning
 </p>
 
 ---
@@ -17,15 +17,13 @@ I am an MSc High Performance Computing and Data Science student at the Universit
 ### Focus Areas
 
 - Machine Learning
-- Deep Learning
 - High-Performance Computing
-- Scientific Computing
 - Computational Mathematics
 
 
 ### Tech Stack
 
-Python · C++ · C · CUDA · MPI · NumPy · SciPy · PyTorch · Docker · Kubernetes
+Python · C++ · C · CUDA · Java · NumPy · SciPy · PyTorch · Docker · Kubernetes
 
 <p align="center">
   <a href="mailto:kurmazmurat0@gmail.com">Email</a> ·
